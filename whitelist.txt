@@ -5,3 +5,21 @@
 @@||stat.modxvm.com^$important
 @@||alitems.com^$important
 @@||s.click.aliexpress.com^$important
+# Github
+@@||github.com^$important
+@@||github.io^$important
+@@||raw.githubusercontent.com^$important
+# Youtube
+@@||s.youtube.com^$important
+@@||s2.youtube.com^$important
+@@||www.youtube-nocookie.com^$important
+@@||youtu.be^$important
+@@||youtube-nocookie.com^$important
+@@||i.ytimg.com^$important
+@@||i1.ytimg.com^$important
+@@||s.ytimg.com^$important
+# Weather
+@@||worldweather.wmo.int^$important
+@@||yr.no^$important
+# DynDns Provider
+@@||dyndns.variomedia.de^$important
