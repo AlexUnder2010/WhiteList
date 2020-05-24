@@ -20,3 +20,4 @@
 @@||worldweather.wmo.int^$important
 @@||yr.no^$important
 @@||download.windowsupdate.com^$important
+@@||opinion.com.ua^$important
