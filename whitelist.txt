@@ -21,3 +21,6 @@
 @@||yr.no^$important
 @@||download.windowsupdate.com^$important
 @@||opinion.com.ua^$important
+@@||ae01.alicdn.com^$important
+@@||startup.mobile.yandex.net^$important
+@@||dyndns.variomedia.de^$important
