@@ -24,3 +24,4 @@
 @@||ae01.alicdn.com^$important
 @@||startup.mobile.yandex.net^$important
 @@||dyndns.variomedia.de^$important
+@@||dl.delivery.mp.microsoft.com^$important
