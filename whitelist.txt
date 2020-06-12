@@ -5,6 +5,7 @@
 @@||track24.ru^$important
 @@||stat.modxvm.com^$important
 @@||alitems.com^$important
+@@||track.aliexpress.com^$important
 @@||s.click.aliexpress.com^$important
 @@||github.com^$important
 @@||github.io^$important
