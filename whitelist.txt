@@ -21,3 +21,8 @@
 @@||startup.mobile.yandex.net^$important
 @@||dyndns.variomedia.de^$important
 @@||dl.delivery.mp.microsoft.com^$important
+@@||data.mistat.intl.xiaomi.com^$important
+@@||api.setting.intl.miui.com^$important
+@@||data.mistat.rus.xiaomi.com^$important
+@@||auth.be.sec.miui.com^$important
+@@||wallpaper.pandora.xiaomi.com^$important
