@@ -26,3 +26,4 @@
 @@||data.mistat.rus.xiaomi.com^$important
 @@||auth.be.sec.miui.com^$important
 @@||wallpaper.pandora.xiaomi.com^$important
+@@||downloads.sourceforge.net^$important
