@@ -13,6 +13,7 @@
 @@||i.ytimg.com^$important
 @@||i1.ytimg.com^$important
 @@||s.ytimg.com^$important
+@@||stat.modxvm.com^$important
 @@||worldweather.wmo.int^$important
 @@||yr.no^$important
 @@||download.windowsupdate.com^$important
