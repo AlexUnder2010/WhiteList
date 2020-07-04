@@ -23,9 +23,11 @@
 @@||dyndns.variomedia.de^$important
 @@||dl.delivery.mp.microsoft.com^$important
 @@||data.mistat.intl.xiaomi.com^$important
+@@||data.mistat.xiaomi.com^$important
 @@||api.setting.intl.miui.com^$important
 @@||data.mistat.rus.xiaomi.com^$important
 @@||auth.be.sec.miui.com^$important
 @@||wallpaper.pandora.xiaomi.com^$important
 @@||downloads.sourceforge.net^$important
 @@||cdn.rozetka.com.ua^$important
+@@||video-downloads.googleusercontent.com^$important
