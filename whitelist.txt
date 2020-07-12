@@ -31,3 +31,5 @@
 @@||downloads.sourceforge.net^$important
 @@||cdn.rozetka.com.ua^$important
 @@||video-downloads.googleusercontent.com^$important
+@@||chat.chatra.io^$important
+@@||img.alibaba.com^$important
