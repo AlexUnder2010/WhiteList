@@ -33,3 +33,4 @@
 @@||video-downloads.googleusercontent.com^$important
 @@||chat.chatra.io^$important
 @@||img.alibaba.com^$important
+@@||track.ukrposhta.ua^$important
