@@ -35,4 +35,4 @@
 @@||img.alibaba.com^$important
 @@||track.ukrposhta.ua^$important
 @@||maxcdn.bootstrapcdn.com^$important
-@@||https://newauction.com.ua^$important
+@@||newauction.com.ua^$important
