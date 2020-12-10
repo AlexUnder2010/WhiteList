@@ -37,3 +37,4 @@
 @@||maxcdn.bootstrapcdn.com^$important
 @@||newauction.com.ua^$important
 @@||adblock.gjtech.net^$important
+@@||mail.ru^$important
