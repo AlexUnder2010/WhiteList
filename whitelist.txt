@@ -43,3 +43,4 @@
 @@||oauth2.epn.bz^$important
 @@||youtube.com^$important
 @@||i.ebayimg.com^$important
+@@||2ip.ua^$important
