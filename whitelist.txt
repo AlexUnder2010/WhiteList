@@ -44,3 +44,5 @@
 @@||youtube.com^$important
 @@||i.ebayimg.com^$important
 @@||2ip.ua^$important
+@@||code.jquery.com^important
+@@||cdn.jsdelivr.net^important
