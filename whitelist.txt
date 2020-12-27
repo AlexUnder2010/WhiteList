@@ -48,9 +48,10 @@
 @@||cdn.jsdelivr.net^important
 @@||fonts.gstatic.com^$important
 @@||code.jquery.com^$important
-@@||beacons3.gvt2.com^$client='Poco F1 128'
+@@||beacons3.gvt2.com^$important
 @@||graph.facebook.com^$important
 @@||b-graph.facebook.com^$important
 @@||infocode.tech^$important
 @@||informer.link^$important
 @@||worldofwarships.ru^$important
+@@||api.msn.com^$important
