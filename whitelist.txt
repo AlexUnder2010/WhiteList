@@ -55,3 +55,4 @@
 @@||informer.link^$important
 @@||worldofwarships.ru^$important
 @@||api.msn.com^$important
+@@||accounts.epicgames.com^$important
