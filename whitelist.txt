@@ -56,3 +56,4 @@
 @@||worldofwarships.ru^$important
 @@||api.msn.com^$important
 @@||accounts.epicgames.com^$important
+@@||explore.amd.com^$important
