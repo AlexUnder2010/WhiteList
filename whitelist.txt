@@ -42,6 +42,7 @@
 @@||app.epn.bz^$important
 @@||oauth2.epn.bz^$important
 @@||youtube.com^$important
+@@||epam.com^
 @@||i.ebayimg.com^$important
 @@||2ip.ua^$important
 @@||code.jquery.com^important
