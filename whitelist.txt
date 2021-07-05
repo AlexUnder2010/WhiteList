@@ -42,7 +42,8 @@
 @@||app.epn.bz^$important
 @@||oauth2.epn.bz^$important
 @@||youtube.com^$important
-@@||epam.com^
+@@||epam.com^$important
+@@||corelogic.com^important
 @@||i.ebayimg.com^$important
 @@||2ip.ua^$important
 @@||code.jquery.com^important
@@ -58,4 +59,6 @@
 @@||api.msn.com^$important
 @@||accounts.epicgames.com^$important
 @@||explore.amd.com^$important
-@@||enterprise.activity.windows.com^
+@@||enterprise.activity.windows.com^$important
+@@||amazonaws.com^$important
+@@||mi.com^$important
