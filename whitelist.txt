@@ -62,3 +62,5 @@
 @@||enterprise.activity.windows.com^$important
 @@||amazonaws.com^$important
 @@||mi.com^$important
+@@||xiaomi.net^$important
+@@||app-measurement.com^$important
