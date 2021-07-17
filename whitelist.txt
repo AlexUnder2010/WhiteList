@@ -67,3 +67,4 @@
 @@||insideruser.microsoft.com^$important
 @@||g.live.com^$important
 @@||settings-win.data.microsoft.com^$important
+@@||self.events.data.microsoft.com^$important
