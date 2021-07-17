@@ -64,3 +64,4 @@
 @@||mi.com^$important
 @@||xiaomi.net^$important
 @@||app-measurement.com^$important
+@@||insideruser.microsoft.com^$important
