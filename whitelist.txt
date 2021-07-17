@@ -65,3 +65,5 @@
 @@||xiaomi.net^$important
 @@||app-measurement.com^$important
 @@||insideruser.microsoft.com^$important
+@@||g.live.com^$important
+@@||settings-win.data.microsoft.com^$important
