@@ -64,3 +64,4 @@
 @@||live.com^$important
 @@||bing.com^$important
 @@||live.net^$important
+@@||ad.admitad.com^$important
