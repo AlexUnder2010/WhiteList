@@ -65,3 +65,9 @@
 @@||bing.com^$important
 @@||live.net^$important
 @@||ad.admitad.com^$important
+@@||grammarly.com^$important
+@@||grammarly.io^$important
+@@||pardot.com^$important
+@@||taboola.com^$important
+@@||geistm.com^$important
+
