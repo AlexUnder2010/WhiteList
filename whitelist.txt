@@ -70,4 +70,4 @@
 @@||pardot.com^$important
 @@||taboola.com^$important
 @@||geistm.com^$important
-
+@@||smartredirect.de^$important
