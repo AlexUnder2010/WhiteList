@@ -71,3 +71,4 @@
 @@||taboola.com^$important
 @@||geistm.com^$important
 @@||smartredirect.de^$important
+@@||habrahabr.ru^$important
