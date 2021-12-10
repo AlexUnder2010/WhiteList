@@ -72,3 +72,4 @@
 @@||geistm.com^$important
 @@||smartredirect.de^$important
 @@||habrahabr.ru^$important
+@@||dedol.ru^$important
