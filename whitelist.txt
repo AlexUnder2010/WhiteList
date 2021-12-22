@@ -73,3 +73,4 @@
 @@||smartredirect.de^$important
 @@||habrahabr.ru^$important
 @@||dedol.ru^$important
+@@||my-vin.ru^$important
