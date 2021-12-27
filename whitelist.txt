@@ -74,3 +74,4 @@
 @@||habrahabr.ru^$important
 @@||dedol.ru^$important
 @@||my-vin.ru^$important
+@@||aimp.su^$important
