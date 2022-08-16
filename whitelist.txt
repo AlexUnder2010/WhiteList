@@ -76,3 +76,14 @@
 @@||my-vin.ru^$important
 @@||aimp.su^$important
 @@||githubapp.com^$important
+@@||www.googletagmanager.com^$important
+@@||www.google-analytics.com^$important
+@@||ssl.google-analytics.com^$important
+@@||stats.g.doubleclick.net^$important
+@@||pagead.l.doubleclick.net^$important
+@@||www.googleadservices.com^$important
+@@||googleadapis.l.google.com^$important
+@@||t.paypal.com^$important
+@@||ad.admitad.com^$important
+@@||s.click.aliexpress.com^$important
+@@||rose.ixbt.com^$important
