@@ -60,7 +60,6 @@
 @@||xiaomi.net^$important
 @@||app-measurement.com^$important
 @@||g.live.com^$important
-@@||microsoft.com^$important
 @@||live.com^$important
 @@||bing.com^$important
 @@||live.net^$important
